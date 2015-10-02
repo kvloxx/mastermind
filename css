@@ -1,0 +1,27 @@
+/**{
+	border: 1px dashed blue;
+}*/
+.peg{
+	background-color: rgb(117, 117, 163);
+	float: left;
+	/*position: absolute;*/
+	cursor: pointer;
+	/*border: 5px solid white;*/
+	border-radius: 50%;
+	box-shadow: none;
+	width: 20px;
+	height: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+#backdrop{
+	background-color: #666699;
+	width: 120px;
+	height: 20px;
+	position: relative;
+	padding: 10px;
+}
+/*#submit{
+	
+}*/
